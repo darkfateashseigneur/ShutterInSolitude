@@ -1,0 +1,2 @@
+# shutterinsolitude
+ Photography Blog Website
